@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ef8b3000-dece-4219-a1d0-e42a10be2ecf" name="timeApp" url="http://104.248.188.203">
+        <fileTransfer host="104.248.188.203" port="22" privateKey="C:\Users\ellio\.ssh\id_rsa" rootFolder="/var/www/laravel" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

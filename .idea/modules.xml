@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/timeApp.iml" filepath="$PROJECT_DIR$/.idea/timeApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DO-Lara1/.idea/timeApp.iml" filepath="$PROJECT_DIR$/../DO-Lara1/.idea/timeApp.iml" />
+    </modules>
+  </component>
+</project>
